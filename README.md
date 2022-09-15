@@ -1,6 +1,4 @@
 # Home
-A repository for "Home"
-
 
 Welcome! The is a repository for "Home" 
 
