@@ -2,4 +2,6 @@
 
 Welcome! The is a repository for "Home" 
 
-Have issuses with our site? Submit it to the issues page 
+Do you have a issue or improvement? Submit it under our "Issues" page.
+
+The Issues page is NOT for "I can't find Minecraft" or "site bad, me no like"
