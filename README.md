@@ -10,10 +10,12 @@ The Issues page is NOT for "I can't find Minecraft" or "site bad, me no like"
 
 ## What if my game is on this site?
 
-Congrats! Your game is fun enough that we added it to our site. Sit back a relax as people injoy what you made.
+Congrats! Your game is fun enough that we added it to our site. Sit back a relax as people enjoy what you made.
 
 If you want us to link to the orginal site where we go it from, let us know under "Issues"  
 
 ## What if I don't want it do be on this site?
 
-Fear not! We will respect your wishes! Just ask and we will take it down. 
+Fear not! We will respect your wishes! Just ask and we will take it down.
+
+We will not claim to own, or to be the creators of any of these games.  
