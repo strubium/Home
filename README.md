@@ -19,3 +19,18 @@ If you want us to link to the orginal site where we go it from, let us know unde
 Fear not! We will respect your wishes! Just ask and we will take it down.
 
 We will not claim to own, or to be the creators of any of these games.  
+
+
+# MeEntrance 
+
+View Site: [Here](https://sites.google.com/g.risd.org/mentrance-videos/home)
+
+This repository is also for MeEntrace, a YouTube get around.
+
+## How to I add a video to the site?
+
+Fill out the google form of our site or add a Issues in this repository.
+
+## What do I do if I want my view removed from MeEntrance?
+
+Add a Issues to this repository and we will remove it. 
